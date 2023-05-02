@@ -1,0 +1,33 @@
+html {
+	background-color: #463333;
+	color: #ebd4d4;
+	width: 60vw;
+	margin: 0 auto;
+}
+
+a {
+	color: #fff0f0;
+	margin-right: 0;
+	margin-left: auto;
+}
+
+#filmmakers li {
+	border: 3px solid #291e1b;
+	margin: 5px 0;
+	padding: 5px 10px;
+}
+
+#filmmakers li div {
+	display: flex;
+	flex-flow: row;
+	width: 100%;
+}
+
+h3 {
+	margin: 5px 0;
+}
+
+#films li {
+	display: inline;
+	margin-left: 10px;
+}
